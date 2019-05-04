@@ -32,5 +32,5 @@ The customer is them promted if they would like to purchase more.
 
 ![Screenshot](/images/10.png)
 
-If the customer says yes to the peompt the whole process starts again with the new values.
+If the customer says yes to the prompt the whole process starts again with the new values.
 If the customer says no then the program ends.
